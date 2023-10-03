@@ -1,0 +1,14 @@
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\bin\Debug\net7.0\Keys.exe
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\bin\Debug\net7.0\Keys.deps.json
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\bin\Debug\net7.0\Keys.runtimeconfig.json
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\bin\Debug\net7.0\Keys.dll
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\bin\Debug\net7.0\Keys.pdb
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\obj\Debug\net7.0\Keys.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\obj\Debug\net7.0\Keys.AssemblyInfoInputs.cache
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\obj\Debug\net7.0\Keys.AssemblyInfo.cs
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\obj\Debug\net7.0\Keys.csproj.CoreCompileInputs.cache
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\obj\Debug\net7.0\Keys.dll
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\obj\Debug\net7.0\refint\Keys.dll
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\obj\Debug\net7.0\Keys.pdb
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\obj\Debug\net7.0\Keys.genruntimeconfig.cache
+c:\Users\cm-es\OneDrive\Documents\ZZEN9202\Keys\obj\Debug\net7.0\ref\Keys.dll
