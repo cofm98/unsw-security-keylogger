@@ -6,12 +6,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWindowsForms>true</UseWindowsForms>
     <Nullable>enable</Nullable>
+    <RuntimeIdentifier>win10-x64</RuntimeIdentifier>
+    <PublishSingleFile>true</PublishSingleFile>
   </PropertyGroup>
 
   <ItemGroup>
-    <Import Include="System.Windows.Drawing" />
-    <Import Include="System.Windows.Data" />
-    <Import Include="System.Windows.Forms" />
   </ItemGroup>
 
 </Project>
