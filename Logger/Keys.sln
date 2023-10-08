@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keys", "Keys.csproj", "{F7AB7972-930D-40D6-A456-C430580F0A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyReader", "..\KeyReader\KeyReader.csproj", "{68D5421F-3D00-4ECD-9A83-A4840CA4F298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7AB7972-930D-40D6-A456-C430580F0A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AB7972-930D-40D6-A456-C430580F0A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AB7972-930D-40D6-A456-C430580F0A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AB7972-930D-40D6-A456-C430580F0A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D5421F-3D00-4ECD-9A83-A4840CA4F298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D5421F-3D00-4ECD-9A83-A4840CA4F298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D5421F-3D00-4ECD-9A83-A4840CA4F298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D5421F-3D00-4ECD-9A83-A4840CA4F298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16CBCDFF-357E-48E8-9E21-79A97EE9F2A0}
+	EndGlobalSection
+EndGlobal

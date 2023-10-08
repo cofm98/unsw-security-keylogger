@@ -1,0 +1,15 @@
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\obj\Debug\net7.0\KeyReader.csproj.AssemblyReference.cache
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\obj\Debug\net7.0\KeyReader.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\obj\Debug\net7.0\KeyReader.AssemblyInfoInputs.cache
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\obj\Debug\net7.0\KeyReader.AssemblyInfo.cs
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\obj\Debug\net7.0\KeyReader.csproj.CoreCompileInputs.cache
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\bin\Debug\net7.0\KeyReader.exe
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\bin\Debug\net7.0\KeyReader.deps.json
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\bin\Debug\net7.0\KeyReader.runtimeconfig.json
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\bin\Debug\net7.0\KeyReader.dll
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\bin\Debug\net7.0\KeyReader.pdb
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\obj\Debug\net7.0\KeyReader.dll
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\obj\Debug\net7.0\refint\KeyReader.dll
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\obj\Debug\net7.0\KeyReader.pdb
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\obj\Debug\net7.0\KeyReader.genruntimeconfig.cache
+c:\Users\Charlie\Documents\cofm98\OneDrive\Documents\unsw-security-keylogger-main\KeyReader\obj\Debug\net7.0\ref\KeyReader.dll
